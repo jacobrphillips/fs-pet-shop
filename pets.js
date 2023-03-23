@@ -1,6 +1,5 @@
 let fs = require("fs");
 
-
 let option = process.argv[2];
 
 switch (option) {
